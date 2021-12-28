@@ -1,0 +1,1 @@
+This is a file that windows flags as a "Harmful File" which is just a false positive. If the file gets delted before the download is finished try temporarily turn off your anti virus. After that add the file as an acception on the pc so you don't have to turn off your anti virus every time you want to open my application :)
